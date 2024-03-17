@@ -29,5 +29,6 @@ html {
 }
 
 .cabecalho{
-  padding-left: 85%;
+ display: flex;
+ margin-left: 80%;
 }
